@@ -1,0 +1,1 @@
+import sysanswer = []nameFile = open('Sort Me.txt')for name in nameFile:	#remove extra spaces, add to answer array	name = name.strip()	answer.append(name)		#sort the names by length, then alphabeticallyanswer.sort()answer.sort(key=len)#print the resultsfor word in answer:	print(word)
