@@ -1,8 +1,8 @@
 #Add sorted lists and outputs to filess
-outputFile1 = open("output.txt")
+'''outputFile1 = open("output.txt")
 outputFile2 = open("outputRev.txt")
 sortedFile1 = open("sorted.txt")
-sortedFile2 = open("sortedRev.txt")
+sortedFile2 = open("sortedRev.txt")'''
 
 #compare normal sort
 outputArray1 = []
